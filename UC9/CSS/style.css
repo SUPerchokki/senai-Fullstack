@@ -1,0 +1,37 @@
+.header-site{
+    background: url("../images/bg\ top.png");
+    width: 100%;
+}
+
+.header-site h1{
+    display: inline-block;
+    padding-left: 25px;
+}
+
+.header-site h1 img{
+    width: 300px;
+    height: 148px;
+    padding: 20px;
+}
+
+.header-site nav{
+    display: inline-flex;
+    vertical-align: 700%;
+    color: white;
+    
+}
+
+.menu-navegação{
+    width: 100%;
+    display: inline-flex;
+    background: #033666;
+    height: 40px;
+}
+
+.menu-navegação nav a{
+    padding: 0 5px;
+    color: white;
+    background: #1E69AE;
+    
+}
+
