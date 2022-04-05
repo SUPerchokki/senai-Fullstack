@@ -16,8 +16,7 @@
 
 .nav-login{
     position: absolute;
-    width: 457px;
-    height: 104px;
+    width: 357px;
     left: 70%;
     top: 16%;
     color: white;
@@ -26,16 +25,17 @@
 
 .menu-navegação{
     width: 100%;
-    display: inline-flex;
+    display: block;
     background: #033666;
     height: 40px;
 }
 
 .menu-navegação nav a{
-    padding: 0 5px;
+    padding: 10px 5px;
     color: white;
     background: #1E69AE;
-    
+    position: relative;
+    top: 12px;
 }
 
 .barra-de-pesquisa{
