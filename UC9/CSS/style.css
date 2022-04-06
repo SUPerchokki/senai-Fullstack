@@ -61,5 +61,9 @@
     margin: 30px auto;
 }
 
+.produtos li{
+    margin: 10px 70px;
+    display: inline-block;
+}
 
 
