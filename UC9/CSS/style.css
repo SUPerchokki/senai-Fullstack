@@ -66,4 +66,33 @@
     display: inline-block;
 }
 
+.barra{
+    display: block;
+    width: 100%;
+    background: #1E69AE;
+    height: 20px;
+}
+.info-footer{
+    display: block;
+    background: #033666;
+    width: 100%;
+    height: 200px;
+}
+
+h3{
+    display: inline-block;
+    width: 50%;
+    text-transform: uppercase;
+    color: aliceblue;
+    text-align: center;
+}
+
+h4{
+    display: inline-block;
+    width: 50%;
+    position: absolute;
+    text-align: center;
+    color: aliceblue;
+    text-transform: uppercase;
+}
 
