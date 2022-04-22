@@ -18,9 +18,14 @@
     position: absolute;
     width: 357px;
     right: 0;
-    top: 16%;
+    top: 10%;
     color: white;
+}
 
+#login{
+    background-color: #033666;
+    padding: 2px 4px;
+    border-radius: 5px;
 }
 
 .menu-navegação{
@@ -68,6 +73,14 @@
     border-radius: 5px;
 }
 
+.produtos p{
+    text-align: center;
+    background-color: purple;
+    padding: 10px 5px;
+    color: white;
+    text-transform: uppercase;
+}
+
 
 .barra{
     display: block;
@@ -87,6 +100,16 @@
     margin: 40px 15%;
     width: 800px;
     background-color: #1E69AE;
+}
+
+.informações p{
+    width: 40%;
+    display: block;
+}
+
+.informações ul{
+    display: block;
+    width: 40%;
 }
 
 h3{
