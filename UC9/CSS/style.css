@@ -16,7 +16,7 @@
 
 .nav-login{
     position: absolute;
-    width: 357px;
+    width: 400px;
     right: 0;
     top: 10%;
     color: white;
@@ -66,11 +66,17 @@
     margin: 30px auto;
 }
 
+.produtos{
+    text-align: center;
+    
+}
+
 .produtos li{
     justify-content: space-between;
     display: inline-block; 
     border: black solid 2px;
     border-radius: 5px;
+    margin: 15px 45px;
 }
 
 .produtos p{
