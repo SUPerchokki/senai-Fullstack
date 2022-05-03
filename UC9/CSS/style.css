@@ -22,6 +22,12 @@
     color: white;
 }
 
+#carrinhoDeCompras{
+    background-color: #1E69AE;
+    border-radius: 5px;
+    border: solid black 3px;
+}
+
 #login{
     background-color: #033666;
     padding: 2px 4px;
