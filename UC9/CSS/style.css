@@ -16,10 +16,13 @@
 
 .nav-login{
     position: absolute;
-    width: 400px;
-    right: 0;
+    right: 30px;
     top: 10%;
     color: white;
+}
+
+.nav-login a{
+    margin-right: 10px;
 }
 
 #carrinhoDeCompras{
