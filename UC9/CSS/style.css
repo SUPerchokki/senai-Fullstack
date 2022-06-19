@@ -25,6 +25,7 @@
     margin-right: 10px;
 }
 
+
 #carrinhoDeCompras{
     background-color: #1E69AE;
     border-radius: 5px;
@@ -35,6 +36,11 @@
     background-color: #033666;
     padding: 2px 4px;
     border-radius: 5px;
+}
+
+#login:visited{
+    color: white;
+    text-decoration: none;
 }
 
 .menu-navegação{
